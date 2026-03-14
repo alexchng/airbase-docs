@@ -1,9 +1,5 @@
 # Login
 
-
-
-[Airbase CLI](./) Login
-
 ## Login
 
 `airbase login` helps developers to authenticate easily with the Airbase service.
@@ -57,5 +53,3 @@ Instead, set these two environment variables using an appropriate secrets mechan
 
 * `AIRBASE_ACCESS_KEY_ID` - the access key identifier from the Airbase Console
 * `AIRBASE_SECRET_ACCESS_KEY` - the secret shown once during credential creation
-
-[Airbase CLI](./) [Container](container.md)

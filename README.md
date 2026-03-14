@@ -1,6 +1,6 @@
-# Introduction to Airbase
+# Welcome to Airbase
 
-## Introduction to Airbase
+## Introduction
 
 Airbase is the fastest, easiest way to deploy web applications to GCC.
 
@@ -27,7 +27,7 @@ See [Templates](templates.md) for more details!
 
 Airbase provides a number of base images that could be used to maximize compatibility with builds and deployments.
 
-See [Docker Images](container-images/) for more information.
+See [Docker Images](docker-containers/) for more information.
 
 ### Help and Support
 

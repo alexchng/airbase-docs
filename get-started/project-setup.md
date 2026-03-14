@@ -47,7 +47,7 @@ airbase link
 
 The sample application provides a Dockerfile that is suitable for deployment on Airbase.
 
-See [Docker images](../container-images/) for considerations if you would like to use your own Dockerfile.
+See [Docker images](../docker-containers/) for considerations if you would like to use your own Dockerfile.
 
 To build the image for Airbase, run:
 
@@ -82,7 +82,7 @@ Now that you’ve made changes and shipped your first project, consider these gu
 Development
 
 * [Templates](../templates.md)
-* [Docker Images](../container-images/)
+* [Docker Images](../docker-containers/)
 
 Operations
 

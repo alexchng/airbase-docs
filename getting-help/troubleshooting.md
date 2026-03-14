@@ -44,5 +44,3 @@ import myFancyPicture from "../public/fancypicture.png";
 This is a temporary limitation in the infrastructure: the length of project names and environment names must fit within 36 characters each.
 
 </details>
-
-[Get Started](../get-started/)

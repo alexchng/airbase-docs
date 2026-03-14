@@ -1,10 +1,6 @@
 # GitLab CI / CD
 
-[Looking for Airbase 1 Documentation? Click here.](https://console.airbase.sg/docs)
-
-[Integrations](./) SGTS Gitlab CI / CD
-
-## GitLab CI / CD
+## Introduction
 
 This guide will help configure projects to get started with DevOps deployment on Airbase Containers:
 
@@ -115,5 +111,3 @@ stop_production:
 You should now be able to **View Deployment** on new Merge Requests and Branches in GitLab.
 
 Click on **Operate > Environments** to view all the branch environments.
-
-[Integrations](./) [Airbase Console](../airbase-console/)

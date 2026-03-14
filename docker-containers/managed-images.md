@@ -1,10 +1,10 @@
-# Managed
+# Managed Images
 
 💡 Reminder: SGTS GLCR images are prefixed with `registry.sgts.gitlab-dedicated.com/innersource/sgts/runtime/airbase/images`
 
 Node · Python · Go · Nginx · Debian
 
-#### Supported Versions [Permalink for this section](managed.md#supported-versions)
+#### Supported Versions
 
 Node
 
@@ -116,5 +116,3 @@ Debian
 | --------- | ------------------------------ |
 | debian-13 | gdssingapore/airbase:debian-13 |
 | debian-12 | gdssingapore/airbase:debian-12 |
-
-[Docker Images](./) [Custom](custom.md)

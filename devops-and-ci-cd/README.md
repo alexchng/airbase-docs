@@ -10,6 +10,6 @@
 
 Airbase can help to improve Development and Operations workflows by integrating directly into the Continuous Integration / Continuous Delivery (CI / CD) pipeline.
 
-* [SGTS GitLab CI/CD](gitlab-ci-cd.md)
+* [SGTS GitLab](gitlab-ci-cd.md)
 * [Branch Environments](branch-environments.md)
-* [SGTS Gitlab CI / CD](gitlab-ci-cd.md)
+

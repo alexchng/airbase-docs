@@ -51,5 +51,3 @@ To redeploy or update production, simply re-run this command from the pipeline w
 It’s simple to preview your branches by integrating the Airbase CLI into your existing development workflow.
 
 If you’re using SHIP GitLab, have a look at our CI templates! They come batteries included and are easy to use.
-
-[Environment Variables](environment-variables.md) [Integrations](./)
